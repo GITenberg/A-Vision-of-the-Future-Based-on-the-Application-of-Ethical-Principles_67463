@@ -1,0 +1,35 @@
+_repo: A-Vision-of-the-Future-Based-on-the-Application-of-Ethical-Principles_67463
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clapperton, Jane Hume
+    alias: Clapperton, J. H. (Jane Hume)
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '54255'
+    url: http://www.gutenberg.org/2009/agents/54255
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Clapperton
+description: ''
+gutenberg_issued: '2022-02-21'
+identifiers:
+  gutenberg: '67463'
+  lccn: 05025883
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008676445
+pgterms:marc905: 20190615122414clapperton
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Swan Sonnenschein,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Social evolution'
+- !lcsh 'Ethics, Evolutionary'
+- !lcc 'HM'
+- GITenberg
+title: A Vision of the Future, Based on the Application of Ethical Principles
+url: http://www.gutenberg.org/ebooks/67463
