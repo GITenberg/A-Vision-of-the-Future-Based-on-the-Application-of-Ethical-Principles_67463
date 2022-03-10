@@ -1,5 +1,8 @@
 _repo: A-Vision-of-the-Future-Based-on-the-Application-of-Ethical-Principles_67463
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67463-h/images/cover.jpg
 creator:
   author:
     agent_name: Clapperton, Jane Hume
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54255
     wikipedia: https://en.wikipedia.org/wiki/Jane_Clapperton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67463#A-Vision-of-the-Future-Based-on-the-Application-of-Ethical-Principles
 gutenberg_issued: '2022-02-21'
 identifiers:
   gutenberg: '67463'
